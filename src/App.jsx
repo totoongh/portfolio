@@ -27,7 +27,7 @@ const siteProps = {
   name: "Thomas Neher",
   title: "IT Consultant & Developer",
   email: "thomas.neher@hotmail.de",
-  gitHub: "https://github.com/totoongh",
+  gitHub: "totoongh",
   instagram: "",
   linkedIn: "",
   medium: "",
